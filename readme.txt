@@ -3,4 +3,4 @@
 
 echo "hello world"
 echo "this is ssh test"
-echo "cgx"
+Creating a new branch is quick AND simple.
