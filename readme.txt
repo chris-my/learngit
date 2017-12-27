@@ -3,3 +3,4 @@
 
 echo "hello world"
 echo "this is ssh test"
+echo "cgx"
