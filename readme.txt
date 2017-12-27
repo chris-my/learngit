@@ -2,3 +2,4 @@
 # this is test
 
 echo "hello world"
+echo "this is ssh test"
